@@ -1,0 +1,15 @@
+metric,period,value,target,owner,category,unit,notes
+Net Sales,2025-05,120000.0,130000.0,Sales,Revenue,USD,May promo
+Net Sales,2025-06,155000.0,140000.0,Sales,Revenue,USD,Seasonal boost
+Net Sales,2025-07,148500.0,150000.0,Sales,Revenue,USD,Slight miss
+Net Sales,2025-08,162400.0,155000.0,Sales,Revenue,USD,Back-to-school
+Net Sales,2025-09,171250.0,165000.0,Sales,Revenue,USD,New pricing
+Churn Rate,2025-05,0.045,0.04,Success,Retention,%,Slight increase
+Churn Rate,2025-06,0.038,0.04,Success,Retention,%,Improved
+Churn Rate,2025-07,0.041,0.038,Success,Retention,%,Promo ended
+Churn Rate,2025-08,0.036,0.037,Success,Retention,%,New onboarding
+Churn Rate,2025-09,0.034,0.036,Success,Retention,%,Stable
+Tickets Resolved,2025-06,920.0,1000.0,Support,Operations,count,Staffing gap
+Tickets Resolved,2025-07,1100.0,1000.0,Support,Operations,count,Met target
+Tickets Resolved,2025-08,1045.0,1050.0,Support,Operations,count,Slight miss
+Tickets Resolved,2025-09,1180.0,1100.0,Support,Operations,count,Automation live
